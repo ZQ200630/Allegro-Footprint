@@ -1,0 +1,28 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Batch DRC Update                                    )
+(                                                            )
+(        Drawing          : axial3.dra                       )
+(        Software Version : 15.5s002                         )
+(        Date/Time        : Fri Sep 23 20:16:19 2005         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Fri Sep 23 20:16:19 2005
+ ========= check standalone pins              Fri Sep 23 20:16:19 2005
+ ========= check symbols (pins,lines,text)    Fri Sep 23 20:16:19 2005
+ ========= check nets                         Fri Sep 23 20:16:19 2005
+ ========= check standalone branches          Fri Sep 23 20:16:19 2005
+ ========= check standalone filled rectangles Fri Sep 23 20:16:19 2005
+ ========= check standalone lines             Fri Sep 23 20:16:19 2005
+ ========= check standalone text              Fri Sep 23 20:16:19 2005
+ ========= check standalone rectangles        Fri Sep 23 20:16:19 2005
+
+ ..... Total number of DRC errors  0
+
+ ..... end batch DRC at                       Fri Sep 23 20:16:19 2005
+ *************************************************************************
+

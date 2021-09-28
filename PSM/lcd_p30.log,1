@@ -1,0 +1,18 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Create Symbol of type PACKAGE                       )
+(                                                            )
+(        Drawing          : lcd_p30.dra                      )
+(        Software Version : 15.5p006                         )
+(        Date/Time        : Tue Sep 27 13:08:38 2005         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+ CREATE SYMBOL BEGUN.
+ 
+ Symbol is missing a refdes. 
+ Symbol is missing a refdes. 
+ CREATE SYMBOL ABORTED. 
+ Create Symbol Aborted, error = Symbol is missing a refdes. 

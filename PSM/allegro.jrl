@@ -1,0 +1,25 @@
+\t (00:00:17) allegro 17.4 S012 Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Thu Sep 16 22:51:32 2021
+\t (00:00:17)         Host=DESKTOP-1FVJTSD User=28142 Pid=29216 CPUs=16
+\t (00:00:17) CmdLine= f:\allegro\body\cadence\cadence_spb_17.4-2019\tools\bin\allegro.exe F:\Allegro\Package\PSM\4\k3_6_t1.dra
+\t (00:00:17) 
+   (00:00:17) Loading axlcore.cxt 
+\t (00:00:17) Opening existing design...
+\i (00:00:19) fillin yes 
+\i (00:00:19) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "k3_6_t1"
+\d (00:00:19) Design opened: F:/Allegro/Package/PSM/4/k3_6_t1.dra
+\t (00:00:19) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:19) trapsize 1799
+\i (00:00:19) trapsize 1856
+\i (00:00:19) trapsize 1799
+\t (00:00:19) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:19) trapsize 1997
+\i (00:00:20) generaledit 
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3.8352 -0.0021
+\i (00:00:20) trapsize 998
+\i (00:00:22) exit 
+\e (00:00:22) Do you want to save the changes you made to k3_6_t1.dra?
+\i (00:00:23) fillin no 
+\t (00:00:24)     Journal end - Thu Sep 16 22:51:38 2021

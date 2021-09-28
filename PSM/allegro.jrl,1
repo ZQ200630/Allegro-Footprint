@@ -1,0 +1,16 @@
+\t (00:00:00) allegro 16.6-2015 S078 (v16-6-112GG) Windows 32
+\t (00:00:00)     Journal start - Thu Feb 23 17:44:28 2017
+\t (00:00:00)         Host=CESC User=Administrator Pid=4652 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Administrator\Desktop\PSM\c_0402.dra
+\t (00:00:00) 
+   (00:00:00) fpSkill-V1.3-03202009
+   (00:00:00) *Error* load: can't access file - "D:/home/pcbenv/JunSkill_V1.1/Jun_SkillLoad.il"
+   (00:00:00) *Error* eval: undefined function - Jun_SkillLoad
+\t (00:00:00) Opening existing design...
+\i (00:00:01) fillin yes 
+\d (00:00:01) Design opened: C:/Users/Administrator/Desktop/PSM/c_0402.dra
+\i (00:00:01) trapsize 1
+\i (00:00:01) trapsize 2
+   (00:00:02) Loading cmds.cxt 
+\i (00:00:02) exit 
+\t (00:00:02)     Journal end - Thu Feb 23 17:44:31 2017

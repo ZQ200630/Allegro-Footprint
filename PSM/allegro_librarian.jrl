@@ -1,0 +1,1064 @@
+\t (00:00:00) allegro_librarian 15.5 p006 (v15-5-81G) i86
+\t (00:00:00) 
+
+\t (00:00:01) Starting new drawing...
+\t (00:00:01) Grids are drawn 400.0, 400.0 apart for enhanced viewability.
+\i (00:00:01) trapsize 1029
+\i (00:00:01) trapsize 1298
+\i (00:00:01) trapsize 1298
+\i (00:00:02) open 
+\i (00:00:16) fillin "E:\WORK\CADENCE_LIB\ALLERGO\SIP8.dra"
+\i (00:00:16) cd "E:\WORK\CADENCE_LIB\ALLERGO"
+\t (00:00:16) Opening existing drawing...
+\i (00:00:16) trapsize 19
+\i (00:00:16) trapsize 20
+\i (00:00:16) trapsize 23
+\i (00:00:16) trapsize 23
+\d (00:00:16) Database opened: E:/WORK/CADENCE_LIB/ALLERGO/SIP8.dra
+\i (00:00:21) color priority 
+\i (00:00:31) setwindow form.colprior
+\i (00:00:31) FORM colprior 1 color_visible NO 
+\i (00:00:32) FORM colprior 1 color_visible YES 
+\i (00:00:33) FORM colprior 1 color_visible NO 
+\i (00:00:35) FORM colprior 1 color_visible YES 
+\i (00:00:38) FORM colprior 8 color_visible NO 
+\i (00:00:39) FORM colprior 8 color_visible YES 
+\i (00:00:40) FORM colprior 1 color_box 1 
+\i (00:00:42) FORM colprior 1 color_visible NO 
+\i (00:00:43) FORM colprior 1 color_visible YES 
+\i (00:00:43) FORM colprior 1 color_box 0 
+\i (00:00:44) FORM colprior 1 color_box 1 
+\i (00:00:46) FORM colprior 2 color_box 1 
+\i (00:00:46) FORM colprior 3 color_box 1 
+\i (00:00:46) FORM colprior 1 color_box 1 
+\i (00:00:47) FORM colprior 1 color_visible NO 
+\i (00:00:48) FORM colprior 1 color_visible YES 
+\i (00:00:55) FORM colprior done  
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in 106 -29
+\i (00:01:23) trapsize 11
+\i (00:01:24) zoom in 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -150 -49
+\i (00:01:24) trapsize 6
+\i (00:01:24) zoom in 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -32 -24
+\i (00:01:24) trapsize 3
+\i (00:01:25) zoom out 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 10 -34
+\i (00:01:25) trapsize 6
+\i (00:01:26) zoom in 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 19 -250
+\i (00:01:26) trapsize 3
+\i (00:01:26) zoom out 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 16 -229
+\i (00:01:26) trapsize 6
+\i (00:01:27) roam start
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:28) roam y 16
+\i (00:01:28) roam y 16
+\i (00:01:28) roam end
+\i (00:01:28) zoom in 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 8 -722
+\i (00:01:28) trapsize 3
+\i (00:01:28) zoom in 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in -6 -712
+\i (00:01:28) trapsize 1
+\i (00:01:28) zoom out 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out -6 -701
+\i (00:01:28) trapsize 3
+\i (00:01:29) zoom in 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in -7 -589
+\i (00:01:29) trapsize 1
+\i (00:01:30) zoom out 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out -7 -589
+\i (00:01:30) trapsize 3
+\i (00:01:30) zoom out 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out -8 -588
+\i (00:01:30) trapsize 6
+\i (00:01:31) roam start
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -32
+\i (00:01:31) roam y -48
+\i (00:01:31) roam y -32
+\i (00:01:31) roam y -48
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -48
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -32
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -32
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -32
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -32
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -16
+\i (00:01:31) roam y -16
+\i (00:01:32) roam end
+\i (00:01:32) zoom in 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 11 5
+\i (00:01:32) trapsize 3
+\i (00:01:32) zoom in 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in -2 -11
+\i (00:01:32) trapsize 1
+\i (00:01:35) zoom out 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 20 -21
+\i (00:01:35) trapsize 3
+\i (00:01:35) zoom in 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 15 -18
+\i (00:01:35) trapsize 1
+\i (00:01:39) zoom out 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 69 -69
+\i (00:01:39) trapsize 3
+\i (00:01:39) roam start
+\i (00:01:39) roam y 16
+\i (00:01:39) roam x 16
+\i (00:01:39) roam x 16
+\i (00:01:39) roam y 16
+\i (00:01:39) roam x 16
+\i (00:01:39) roam y 16
+\i (00:01:40) roam x 16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam x -16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam x -16
+\i (00:01:40) roam x -32
+\i (00:01:40) roam y 16
+\i (00:01:40) roam x -16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam x -16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam x -16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam x -16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 16
+\i (00:01:40) roam y 32
+\i (00:01:40) roam y 32
+\i (00:01:41) roam y 16
+\i (00:01:41) roam x -16
+\i (00:01:41) roam y 48
+\i (00:01:41) roam y 16
+\i (00:01:41) roam y 16
+\i (00:01:41) roam x -16
+\i (00:01:41) roam end
+\i (00:01:41) zoom out 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 23 -447
+\i (00:01:41) trapsize 6
+\i (00:01:42) roam start
+\i (00:01:42) roam y 16
+\i (00:01:42) roam y 32
+\i (00:01:42) roam y 32
+\i (00:01:42) roam y 32
+\i (00:01:42) roam y 32
+\i (00:01:42) roam y 32
+\i (00:01:42) roam y 16
+\i (00:01:42) roam y 16
+\i (00:01:42) roam y 16
+\i (00:01:42) roam end
+\i (00:01:44) color priority 
+\i (00:01:45) setwindow form.colprior
+\i (00:01:45) FORM colprior done  
+\i (00:01:46) setwindow pcb
+\i (00:01:46) color 
+\i (00:01:46) setwindow form.cvf_main
+\i (00:01:46) FORM cvf_main class_list Geometry
+\i (00:01:48) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (00:01:49) FORM cvf_main package_geometry/place_bound_bottom/visible NO 
+\i (00:01:49) FORM cvf_main apply  
+\i (00:01:51) FORM cvf_main ok  
+\i (00:01:51) setwindow pcb
+\i (00:01:51) roam start
+\i (00:01:51) roam y -48
+\i (00:01:52) roam y -32
+\i (00:01:52) roam y -32
+\i (00:01:52) roam y -32
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -32
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -32
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:52) roam y -16
+\i (00:01:53) roam y -16
+\i (00:01:53) roam end
+\i (00:02:00) zoom in 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in -1 -1
+\i (00:02:00) trapsize 3
+\i (00:02:01) zoom in 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in -1 -1
+\i (00:02:01) trapsize 1
+\i (00:02:02) zoom in 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom in -1 -1
+\i (00:02:02) trapsize 1
+\i (00:02:03) zoom out 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out -2 0
+\i (00:02:03) trapsize 1
+\i (00:02:05) color 
+\i (00:02:05) setwindow form.cvf_main
+\i (00:02:05) FORM cvf_main class_list Geometry
+\i (00:02:07) FORM cvf_main class_list Stack-Up 
+\i (00:02:10) FORM cvf_main pin/soldermask_bottom/visible NO 
+\i (00:02:11) FORM cvf_main apply  
+\i (00:02:12) FORM cvf_main pin/soldermask_top/visible NO 
+\i (00:02:12) FORM cvf_main apply  
+\i (00:02:18) FORM cvf_main pin/top/visible NO 
+\i (00:02:19) FORM cvf_main apply  
+\i (00:02:20) FORM cvf_main pin/bottom/visible NO 
+\i (00:02:21) FORM cvf_main apply  
+\i (00:02:27) FORM cvf_main all_visible2 NO 
+\i (00:02:28) FORM cvf_main apply  
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in 53 -66
+\i (00:02:31) trapsize 1
+\i (00:02:32) zoom in 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in 37 -65
+\i (00:02:32) trapsize 1
+\i (00:02:35) setwindow form.cvf_main
+\i (00:02:35) FORM cvf_main cancel  
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 43 -63
+\i (00:02:36) trapsize 1
+\i (00:02:36) zoom out 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 38 -60
+\i (00:02:36) trapsize 1
+\i (00:02:37) zoom out 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 31 -59
+\i (00:02:37) trapsize 3
+\i (00:02:37) zoom fit 
+\i (00:02:37) trapsize 8
+\i (00:02:40) roam start
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 32
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -48
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -32
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam end
+\i (00:02:41) zoom in 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in -13 9
+\i (00:02:41) trapsize 4
+\i (00:02:42) zoom in 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom in -134 13
+\i (00:02:42) trapsize 2
+\i (00:02:42) zoom in 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom in 6 13
+\i (00:02:42) trapsize 1
+\i (00:02:43) zoom out 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom out 6 13
+\i (00:02:43) trapsize 2
+\i (00:02:45) color 
+\i (00:02:45) setwindow form.cvf_main
+\i (00:02:45) FORM cvf_main class_list Geometry
+\i (00:02:49) FORM cvf_main all_visible5 YES 
+\i (00:02:49) FORM cvf_main all_visible5 NO 
+\i (00:02:50) FORM cvf_main apply  
+\i (00:02:52) FORM cvf_main all_visible5 YES 
+\i (00:02:53) FORM cvf_main apply  
+\i (00:02:54) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (00:02:54) FORM cvf_main package_geometry/place_bound_bottom/visible NO 
+\i (00:02:55) FORM cvf_main apply  
+\i (00:02:59) FORM cvf_main class_list Components 
+\i (00:03:02) FORM cvf_main all_visible1 NO 
+\i (00:03:03) FORM cvf_main all_visible2 NO 
+\i (00:03:04) FORM cvf_main apply  
+\i (00:03:05) FORM cvf_main all_visible3 NO 
+\i (00:03:06) FORM cvf_main apply  
+\i (00:03:07) FORM cvf_main all_visible4 NO 
+\i (00:03:08) FORM cvf_main all_visible5 NO 
+\i (00:03:08) FORM cvf_main apply  
+\i (00:03:10) FORM cvf_main class_list Manufacturing 
+\i (00:03:11) FORM cvf_main all_visible1 NO 
+\i (00:03:12) FORM cvf_main apply  
+\i (00:03:22) FORM cvf_main manufacturing/photoplot_outline/visible YES 
+\i (00:03:23) FORM cvf_main apply  
+\i (00:03:25) FORM cvf_main manufacturing/no_gloss_all/visible YES 
+\i (00:03:25) FORM cvf_main manufacturing/no_gloss_top/visible YES 
+\i (00:03:26) FORM cvf_main manufacturing/no_gloss_bottom/visible YES 
+\i (00:03:26) FORM cvf_main manufacturing/no_gloss_internal/visible YES 
+\i (00:03:27) FORM cvf_main apply  
+\i (00:03:27) FORM cvf_main manufacturing/ncdrill_legend/visible YES 
+\i (00:03:29) FORM cvf_main apply  
+\i (00:03:30) FORM cvf_main manufacturing/probe_bottom/visible YES 
+\i (00:03:30) FORM cvf_main manufacturing/autosilk_top/visible YES 
+\i (00:03:31) FORM cvf_main manufacturing/autosilk_bottom/visible YES 
+\i (00:03:31) FORM cvf_main apply  
+\i (00:03:32) FORM cvf_main manufacturing/no_probe_top/visible YES 
+\i (00:03:32) FORM cvf_main manufacturing/no_probe_bottom/visible YES 
+\i (00:03:33) FORM cvf_main apply  
+\i (00:03:35) FORM cvf_main manufacturing/ncdrill_figure/visible YES 
+\i (00:03:36) FORM cvf_main apply  
+\i (00:03:37) FORM cvf_main manufacturing/ncdrill_figure/visible NO 
+\i (00:03:38) FORM cvf_main manufacturing/probe_top/visible YES 
+\i (00:03:39) FORM cvf_main apply  
+\i (00:03:40) FORM cvf_main manufacturing/probe_top/visible NO 
+\i (00:03:44) FORM cvf_main manufacturing/ncdrill_figure/visible YES 
+\i (00:03:45) FORM cvf_main apply  
+\i (00:03:54) FORM cvf_main cancel  
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 57 -5
+\i (00:03:57) trapsize 4
+\i (00:03:57) zoom out 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 237 -6
+\i (00:03:57) trapsize 8
+\i (00:03:58) zoom in 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom in 81 -140
+\i (00:03:58) trapsize 4
+\i (00:03:58) zoom out 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom out -93 -60
+\i (00:03:58) trapsize 8
+\i (00:04:00) open 
+\f (00:04:00) Do you want to save the changes you made to SIP8.dra?
+\i (00:04:01) fillin no 
+\i (00:04:02) fillin "dip10.dra"
+\t (00:04:02) Opening existing drawing...
+\i (00:04:02) trapsize 39
+\d (00:04:02) Database opened: E:/WORK/CADENCE_LIB/ALLERGO/dip10.dra
+\i (00:04:03) zoom out 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out 125.2 -59.8
+\i (00:04:03) trapsize 78
+\i (00:04:05) color 
+\i (00:04:05) setwindow form.cvf_main
+\i (00:04:05) FORM cvf_main class_list Components
+\i (00:04:07) FORM cvf_main class_list Geometry 
+\i (00:04:09) FORM cvf_main cancel  
+\i (00:04:11) setwindow pcb
+\i (00:04:11) script 
+\f (00:04:12) Select Script to Replay
+\i (00:04:13) fillin "mxp_brd"
+\i (00:04:14) replay E:/WORK/CADENCE_LIB/ALLERGO/mxp_brd.scr 
+\f (00:04:14) Select Script to Replay
+\i (00:04:14) version 15.5 
+\t (00:04:14) Script version: 15.5
+\i (00:04:14) setwindow pcb 
+\i (00:04:14) trapsize 1562 
+\i (00:04:14) color 
+\i (00:04:14) FORM cvf_main class_list Components
+\i (00:04:14) setwindow form.cvf_main 
+\i (00:04:14) FORM cvf_main class_list Geometry 
+\i (00:04:14) FORM cvf_main class_list Stack-Up 
+\i (00:04:14) FORM cvf_main color7 1 
+\i (00:04:14) FORM cvf_main pin/top/color 7 
+\i (00:04:14) FORM cvf_main etch/top/color 7 
+\i (00:04:14) FORM cvf_main color9 1 
+\i (00:04:14) FORM cvf_main pin/bottom/color 9 
+\i (00:04:14) FORM cvf_main drc_error_class/bottom/color 9 
+\i (00:04:14) FORM cvf_main etch/bottom/color 9 
+\i (00:04:14) FORM cvf_main color24 1 
+\i (00:04:14) FORM cvf_main via_class/bottom/color 24 
+\i (00:04:14) FORM cvf_main via_class/top/color 24 
+\i (00:04:14) FORM cvf_main color4 1 
+\i (00:04:14) FORM cvf_main drc_error_class/bottom/color 4 
+\i (00:04:14) FORM cvf_main drc_error_class/top/color 4 
+\i (00:04:14) FORM cvf_main color8 1 
+\i (00:04:14) FORM cvf_main boundary/top/color 8 
+\e (00:04:14) Form field label not found
+\i (00:04:14) FORM cvf_main color22 1 
+\i (00:04:14) FORM cvf_main boundary/bottom/color 22 
+\e (00:04:14) Form field label not found
+\i (00:04:14) FORM cvf_main color11 1 
+\i (00:04:14) FORM cvf_main anti_etch/bottom/color 11 
+\i (00:04:14) FORM cvf_main anti_etch/top/color 11 
+\i (00:04:14) FORM cvf_main all_visible1 NO 
+\i (00:04:14) FORM cvf_main all_visible2 NO 
+\i (00:04:14) FORM cvf_main pin/bottom/visible YES 
+\i (00:04:14) FORM cvf_main pin/top/visible YES 
+\i (00:04:14) FORM cvf_main via_class/bottom/visible YES 
+\i (00:04:14) FORM cvf_main via_class/top/visible YES 
+\i (00:04:14) FORM cvf_main color4 1 
+\i (00:04:14) FORM cvf_main drc_error_class/package_bottom/color 4 
+\i (00:04:14) FORM cvf_main drc_error_class/package_top/color 4 
+\i (00:04:14) FORM cvf_main drc_error_class/all/color 4 
+\i (00:04:14) FORM cvf_main class_list Geometry 
+\i (00:04:14) FORM cvf_main all_visible1 NO 
+\i (00:04:14) FORM cvf_main all_visible5 NO 
+\i (00:04:14) FORM cvf_main color8 1 
+\i (00:04:14) FORM cvf_main package_geometry/assembly_top/color 8 
+\i (00:04:14) FORM cvf_main color3 1 
+\i (00:04:14) FORM cvf_main color5 1 
+\i (00:04:14) FORM cvf_main board_geometry/outline/visible YES 
+\i (00:04:14) FORM cvf_main board_geometry/outline/color 5 
+\i (00:04:14) FORM cvf_main board_geometry/dimension/color 5 
+\i (00:04:14) FORM cvf_main board_geometry/dimension/visible YES 
+\i (00:04:14) FORM cvf_main color12 1 
+\i (00:04:14) FORM cvf_main board_geometry/dimension/color 12 
+\i (00:04:14) FORM cvf_main board_geometry/constraint_area/visible YES 
+\i (00:04:14) FORM cvf_main package_geometry/assembly_top/visible YES 
+\i (00:04:14) FORM cvf_main package_geometry/assembly_bottom/visible YES 
+\i (00:04:14) FORM cvf_main package_geometry/place_bound_top/visible YES 
+\i (00:04:14) FORM cvf_main package_geometry/place_bound_bottom/visible YES 
+\i (00:04:14) FORM cvf_main color2 1 
+\i (00:04:14) FORM cvf_main package_geometry/pin_number/color 2 
+\i (00:04:14) FORM cvf_main package_geometry/pin_number/visible YES 
+\i (00:04:14) FORM cvf_main color8 1 
+\i (00:04:14) FORM cvf_main package_geometry/silkscreen_top/color 8 
+\i (00:04:14) FORM cvf_main color22 1 
+\i (00:04:14) FORM cvf_main package_geometry/silkscreen_bottom/color 22 
+\i (00:04:14) FORM cvf_main package_geometry/silkscreen_bottom/visible YES 
+\i (00:04:14) FORM cvf_main package_geometry/silkscreen_top/visible YES 
+\i (00:04:14) FORM cvf_main class_list Components 
+\i (00:04:14) FORM cvf_main all_visible1 NO 
+\i (00:04:14) FORM cvf_main all_visible2 NO 
+\i (00:04:14) FORM cvf_main all_visible3 NO 
+\i (00:04:14) FORM cvf_main all_visible4 NO 
+\i (00:04:14) FORM cvf_main all_visible5 NO 
+\i (00:04:14) FORM cvf_main ref_des/assembly_top/visible YES 
+\i (00:04:14) FORM cvf_main ref_des/assembly_bottom/visible YES 
+\i (00:04:14) FORM cvf_main color8 1 
+\i (00:04:14) FORM cvf_main ref_des/assembly_top/color 8 
+\i (00:04:14) FORM cvf_main color22 1 
+\i (00:04:14) FORM cvf_main ref_des/assembly_bottom/color 22 
+\i (00:04:14) FORM cvf_main class_list Manufacturing 
+\i (00:04:14) FORM cvf_main all_visible5 NO 
+\i (00:04:14) FORM cvf_main all_visible1 NO 
+\i (00:04:14) FORM cvf_main color17 1 
+\i (00:04:14) FORM cvf_main drawing_format/outline/visible YES 
+\i (00:04:14) FORM cvf_main class_list Areas 
+\i (00:04:14) FORM cvf_main color5 1 
+\i (00:04:14) FORM cvf_main package_keepout/all/color 5 
+\i (00:04:14) FORM cvf_main package_keepout/bottom/color 5 
+\i (00:04:14) FORM cvf_main package_keepout/top/color 5 
+\i (00:04:14) FORM cvf_main class_list Analysis 
+\i (00:04:14) FORM cvf_main all_visible1 NO 
+\i (00:04:14) FORM cvf_main class_list Display 
+\i (00:04:14) FORM cvf_main class_list Stack-Up 
+\i (00:04:14) FORM cvf_main apply 
+\i (00:04:14) FORM cvf_main read_palette Write Local 
+\i (00:04:14) FORM cvf_main ok 
+\i (00:04:14) setwindow pcb 
+\i (00:04:14) trapsize 78
+\i (00:04:16) color 
+\i (00:04:16) setwindow form.cvf_main
+\i (00:04:16) FORM cvf_main class_list Components
+\i (00:04:18) FORM cvf_main class_list Geometry 
+\i (00:04:19) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (00:04:19) FORM cvf_main package_geometry/place_bound_bottom/visible NO 
+\i (00:04:20) FORM cvf_main apply  
+\i (00:04:20) FORM cvf_main ok  
+\i (00:04:21) setwindow pcb
+\i (00:04:21) zoom in 
+\i (00:04:21) setwindow pcb
+\i (00:04:21) zoom in -8.7 4.1
+\i (00:04:21) trapsize 39
+\i (00:04:23) color 
+\i (00:04:23) setwindow form.cvf_main
+\i (00:04:23) FORM cvf_main class_list Components
+\i (00:04:29) FORM cvf_main class_list Manufacturing 
+\i (00:04:33) FORM cvf_main manufacturing/ncdrill_figure/visible YES 
+\i (00:04:34) FORM cvf_main apply  
+\i (00:04:36) FORM cvf_main ok  
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out 99.6 -21.6
+\i (00:04:39) trapsize 78
+\i (00:04:40) zoom in 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) zoom in 314.5 -426.5
+\i (00:04:40) trapsize 39
+\i (00:04:41) zoom in 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom in 313.8 -426.5
+\i (00:04:41) trapsize 19
+\i (00:04:42) zoom out 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out 313.8 -426.4
+\i (00:04:42) trapsize 39
+\i (00:04:42) zoom out 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out 313.8 -426.5
+\i (00:04:42) trapsize 78
+\i (00:04:42) zoom in 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 84.9 -378.2
+\i (00:04:42) trapsize 39
+\i (00:04:43) zoom in 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in -1.5 -322.8
+\i (00:04:43) trapsize 19
+\i (00:04:43) zoom out 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom out 3.2 -311.9
+\i (00:04:43) trapsize 39
+\i (00:04:44) zoom out 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -12.3 -284.7
+\i (00:04:44) trapsize 78
+\i (00:04:44) zoom in 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in -3.0 -16.8
+\i (00:04:44) trapsize 39
+\i (00:04:46) zoom out 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -2.2 -5.8
+\i (00:04:46) trapsize 78
+\i (00:04:51) zoom out 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out 167.6 -237.9
+\i (00:04:51) trapsize 156
+\i (00:04:52) zoom in 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) zoom in -73.3 464.6
+\i (00:04:52) trapsize 78
+\i (00:04:54) roam start
+\i (00:04:54) roam y 32
+\i (00:04:54) roam y 32
+\i (00:04:54) roam y 32
+\i (00:04:54) roam y 32
+\i (00:04:54) roam x -16
+\i (00:04:54) roam y 32
+\i (00:04:54) roam y 16
+\i (00:04:54) roam y 16
+\i (00:04:54) roam y 16
+\i (00:04:54) roam end
+\i (00:04:57) color 
+\i (00:04:57) setwindow form.cvf_main
+\i (00:04:57) FORM cvf_main class_list Components
+\i (00:05:02) FORM cvf_main class_list Stack-Up 
+\i (00:05:04) FORM cvf_main color16 1 
+\i (00:05:04) FORM cvf_main pin/top/color 16 
+\i (00:05:05) FORM cvf_main apply  
+\i (00:05:09) FORM cvf_main color2 1 
+\i (00:05:09) FORM cvf_main pin/top/color 2 
+\i (00:05:10) FORM cvf_main apply  
+\i (00:05:17) FORM cvf_main color6 1 
+\i (00:05:18) FORM cvf_main pin/top/color 6 
+\i (00:05:19) FORM cvf_main apply  
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 320.8 -328.4
+\i (00:05:22) trapsize 39
+\i (00:05:22) zoom in 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 269.4 -326.9
+\i (00:05:22) trapsize 19
+\i (00:05:23) zoom out 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 284.2 -343.2
+\i (00:05:23) trapsize 39
+\i (00:05:23) zoom out 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 283.4 -345.5
+\i (00:05:23) trapsize 78
+\i (00:05:24) zoom out 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 283.5 -345.6
+\i (00:05:24) trapsize 156
+\i (00:05:24) zoom out 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom out 634.0 -507.6
+\i (00:05:24) trapsize 156
+\i (00:05:25) zoom out 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom out 310.0 -333.1
+\i (00:05:25) trapsize 156
+\i (00:05:27) setwindow form.cvf_main
+\i (00:05:27) FORM cvf_main color16 1 
+\i (00:05:29) FORM cvf_main pin/top/color 16 
+\i (00:05:30) FORM cvf_main apply  
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom in 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom in 163.5 -99.4
+\i (00:05:32) trapsize 78
+\i (00:05:32) zoom in 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom in 3.0 -71.4
+\i (00:05:32) trapsize 39
+\i (00:05:36) setwindow form.cvf_main
+\i (00:05:36) FORM cvf_main color20 1 
+\i (00:05:36) FORM cvf_main pin/top/color 20 
+\i (00:05:37) FORM cvf_main apply  
+\i (00:05:39) setwindow pcb
+\i (00:05:39) zoom out 
+\i (00:05:39) setwindow pcb
+\i (00:05:39) zoom out 117.5 -186.6
+\i (00:05:39) trapsize 78
+\i (00:05:40) setwindow form.cvf_main
+\i (00:05:40) FORM cvf_main color7 1 
+\i (00:05:41) FORM cvf_main pin/top/color 7 
+\i (00:05:42) FORM cvf_main apply  
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom out 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom out 317.0 -242.7
+\i (00:05:43) trapsize 156
+\i (00:05:44) zoom in 
+\i (00:05:44) setwindow pcb
+\i (00:05:44) zoom in 176.0 -258.3
+\i (00:05:44) trapsize 78
+\i (00:05:46) setwindow form.cvf_main
+\i (00:05:46) FORM cvf_main ok  
+\i (00:05:46) setwindow pcb
+\i (00:05:46) zoom out 
+\i (00:05:46) setwindow pcb
+\i (00:05:46) zoom out 73.1 -252.0
+\i (00:05:46) trapsize 156
+\i (00:05:47) zoom in 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom in 35.8 -77.6
+\i (00:05:47) trapsize 78
+\i (00:05:48) open 
+\f (00:05:48) Do you want to save the changes you made to dip10.dra?
+\i (00:05:49) fillin no 
+\i (00:05:50) fillin "0402.dra"
+\t (00:05:50) Opening existing drawing...
+\i (00:05:50) trapsize 29
+\d (00:05:50) Database opened: E:/WORK/CADENCE_LIB/ALLERGO/0402.dra
+\i (00:05:51) zoom in 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom in 32.6 -11.1
+\i (00:05:51) trapsize 15
+\i (00:05:53) color 
+\i (00:05:53) setwindow form.cvf_main
+\i (00:05:53) FORM cvf_main class_list Geometry
+\i (00:05:56) FORM cvf_main class_list Manufacturing 
+\i (00:05:59) FORM cvf_main manufacturing/ncdrill_figure/visible YES 
+\i (00:06:00) FORM cvf_main apply  
+\i (00:06:01) FORM cvf_main ok  
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom out 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom out 53.4 -17.2
+\i (00:06:01) trapsize 29
+\i (00:06:02) zoom in 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in 22.1 -9.6
+\i (00:06:02) trapsize 15
+\i (00:06:02) zoom out 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom out 22.2 -9.6
+\i (00:06:02) trapsize 29
+\i (00:06:03) zoom out 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out 22.1 -9.6
+\i (00:06:03) trapsize 58
+\i (00:06:03) zoom in 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in 22.1 -9.5
+\i (00:06:03) trapsize 29
+\i (00:08:31) trapsize 23
+\i (00:08:31) trapsize 29
+\i (00:08:33) open 
+\f (00:08:33) Do you want to save the changes you made to 0402.dra?
+\i (00:08:33) fillin no 
+\i (00:08:35) fillin "dip10.dra"
+\t (00:08:35) Opening existing drawing...
+\i (00:08:35) trapsize 39
+\d (00:08:35) Database opened: E:/WORK/CADENCE_LIB/ALLERGO/dip10.dra
+\i (00:08:38) script 
+\f (00:08:39) Select Script to Replay
+\i (00:08:40) fillin "mxp_dra"
+\i (00:08:41) replay E:/WORK/CADENCE_LIB/ALLERGO/mxp_dra.scr 
+\f (00:08:41) Select Script to Replay
+\i (00:08:41) version 15.5 
+\t (00:08:41) Script version: 15.5
+\i (00:08:41) setwindow pcb 
+\i (00:08:41) trapsize 15 
+\i (00:08:41) color 
+\i (00:08:41) FORM cvf_main class_list Components
+\i (00:08:41) setwindow form.cvf_main 
+\i (00:08:41) FORM cvf_main class_list Geometry 
+\i (00:08:41) FORM cvf_main class_list Stack-Up 
+\i (00:08:41) FORM cvf_main color24 1 
+\i (00:08:41) FORM cvf_main pin/soldermask_top/color 24 
+\i (00:08:41) FORM cvf_main pin/soldermask_bottom/color 24 
+\i (00:08:41) FORM cvf_main via_class/soldermask_top/visible YES 
+\i (00:08:41) FORM cvf_main via_class/soldermask_bottom/visible YES 
+\i (00:08:41) FORM cvf_main via_class/soldermask_top/color 24 
+\i (00:08:41) FORM cvf_main via_class/soldermask_top/visible NO 
+\i (00:08:41) FORM cvf_main via_class/soldermask_bottom/visible NO 
+\i (00:08:41) FORM cvf_main via_class/soldermask_bottom/color 24 
+\i (00:08:41) FORM cvf_main class_list Geometry 
+\i (00:08:41) FORM cvf_main color5 1 
+\i (00:08:41) FORM cvf_main board_geometry/assembly_top/color 5 
+\i (00:08:41) FORM cvf_main board_geometry/assembly_top/visible YES 
+\i (00:08:41) FORM cvf_main board_geometry/assembly_bottom/color 5 
+\i (00:08:41) FORM cvf_main board_geometry/assembly_bottom/visible YES 
+\i (00:08:41) FORM cvf_main color24 1 
+\i (00:08:41) FORM cvf_main board_geometry/dimension/color 24 
+\i (00:08:41) FORM cvf_main color8 1 
+\i (00:08:41) FORM cvf_main board_geometry/silkscreen_top/color 8 
+\i (00:08:41) FORM cvf_main color22 1 
+\i (00:08:41) FORM cvf_main board_geometry/silkscreen_bottom/color 22 
+\i (00:08:41) FORM cvf_main package_geometry/assembly_bottom/color 22 
+\i (00:08:41) FORM cvf_main class_list Components 
+\i (00:08:41) FORM cvf_main ref_des/silkscreen_top/visible YES 
+\i (00:08:41) FORM cvf_main ref_des/silkscreen_bottom/visible YES 
+\i (00:08:41) FORM cvf_main color8 1 
+\i (00:08:41) FORM cvf_main component_value/assembly_top/color 8 
+\i (00:08:41) FORM cvf_main color22 1 
+\i (00:08:41) FORM cvf_main component_value/assembly_bottom/color 22 
+\i (00:08:41) FORM cvf_main color8 1 
+\i (00:08:41) FORM cvf_main device_type/assembly_top/color 8 
+\i (00:08:41) FORM cvf_main tolerance/assembly_top/color 8 
+\i (00:08:41) FORM cvf_main user_part_number/assembly_top/color 8 
+\i (00:08:41) FORM cvf_main color22 1 
+\i (00:08:41) FORM cvf_main device_type/assembly_bottom/color 22 
+\i (00:08:41) FORM cvf_main tolerance/assembly_bottom/color 22 
+\i (00:08:41) FORM cvf_main user_part_number/assembly_bottom/color 22 
+\i (00:08:41) FORM cvf_main tolerance/silkscreen_bottom/color 22 
+\i (00:08:41) FORM cvf_main color8 1 
+\i (00:08:41) FORM cvf_main tolerance/silkscreen_top/color 8 
+\i (00:08:41) FORM cvf_main device_type/assembly_top/visible YES 
+\i (00:08:41) FORM cvf_main device_type/assembly_bottom/visible YES 
+\i (00:08:41) FORM cvf_main device_type/silkscreen_top/visible YES 
+\i (00:08:41) FORM cvf_main device_type/silkscreen_bottom/visible YES 
+\i (00:08:41) FORM cvf_main component_value/assembly_top/visible YES 
+\i (00:08:41) FORM cvf_main component_value/assembly_bottom/visible YES 
+\i (00:08:41) FORM cvf_main component_value/silkscreen_top/visible YES 
+\i (00:08:41) FORM cvf_main component_value/silkscreen_bottom/visible YES 
+\i (00:08:41) FORM cvf_main class_list Manufacturing 
+\i (00:08:41) FORM cvf_main class_list Areas 
+\i (00:08:41) FORM cvf_main color13 1 
+\i (00:08:41) FORM cvf_main color17 1 
+\i (00:08:41) FORM cvf_main route_keepout/top/color 17 
+\i (00:08:41) FORM cvf_main via_keepout/top/color 17 
+\i (00:08:41) FORM cvf_main color13 1 
+\i (00:08:41) FORM cvf_main package_keepin/top/color 13 
+\i (00:08:41) FORM cvf_main route_keepin/top/color 13 
+\i (00:08:41) FORM cvf_main color17 1 
+\i (00:08:41) FORM cvf_main route_keepout/bottom/color 17 
+\i (00:08:41) FORM cvf_main via_keepout/bottom/color 17 
+\i (00:08:41) FORM cvf_main color13 1 
+\i (00:08:41) FORM cvf_main route_keepin/bottom/color 13 
+\i (00:08:41) FORM cvf_main package_keepin/bottom/color 13 
+\i (00:08:41) FORM cvf_main color17 1 
+\i (00:08:41) FORM cvf_main route_keepout/all/color 17 
+\i (00:08:41) FORM cvf_main via_keepout/all/color 17 
+\i (00:08:41) FORM cvf_main color13 1 
+\i (00:08:41) FORM cvf_main package_keepin/all/color 13 
+\i (00:08:41) FORM cvf_main route_keepin/all/color 13 
+\i (00:08:41) FORM cvf_main class_list Analysis 
+\i (00:08:41) FORM cvf_main class_list Stack-Up 
+\i (00:08:41) FORM cvf_main read_palette Write Local 
+\i (00:08:41) FORM cvf_main ok 
+\i (00:08:41) setwindow pcb 
+\i (00:08:41) trapsize 39
+\i (00:08:43) color 
+\i (00:08:43) setwindow form.cvf_main
+\i (00:08:43) FORM cvf_main class_list Components
+\i (00:08:45) FORM cvf_main class_list Stack-Up 
+\i (00:08:47) FORM cvf_main class_list Geometry 
+\i (00:08:50) FORM cvf_main cancel  
+\i (00:08:52) setwindow pcb
+\i (00:08:52) script 
+\f (00:08:53) Select Script to Replay
+\i (00:08:54) fillin "mxp_brd"
+\i (00:08:56) replay E:/WORK/CADENCE_LIB/ALLERGO/mxp_brd.scr 
+\f (00:08:56) Select Script to Replay
+\i (00:08:56) version 15.5 
+\t (00:08:56) Script version: 15.5
+\i (00:08:56) setwindow pcb 
+\i (00:08:56) trapsize 1562 
+\i (00:08:56) color 
+\i (00:08:56) FORM cvf_main class_list Components
+\i (00:08:56) setwindow form.cvf_main 
+\i (00:08:56) FORM cvf_main class_list Geometry 
+\i (00:08:56) FORM cvf_main class_list Stack-Up 
+\i (00:08:56) FORM cvf_main color7 1 
+\i (00:08:56) FORM cvf_main pin/top/color 7 
+\i (00:08:56) FORM cvf_main etch/top/color 7 
+\i (00:08:56) FORM cvf_main color9 1 
+\i (00:08:56) FORM cvf_main pin/bottom/color 9 
+\i (00:08:56) FORM cvf_main drc_error_class/bottom/color 9 
+\i (00:08:56) FORM cvf_main etch/bottom/color 9 
+\i (00:08:56) FORM cvf_main color24 1 
+\i (00:08:56) FORM cvf_main via_class/bottom/color 24 
+\i (00:08:56) FORM cvf_main via_class/top/color 24 
+\i (00:08:56) FORM cvf_main color4 1 
+\i (00:08:56) FORM cvf_main drc_error_class/bottom/color 4 
+\i (00:08:56) FORM cvf_main drc_error_class/top/color 4 
+\i (00:08:56) FORM cvf_main color8 1 
+\i (00:08:56) FORM cvf_main boundary/top/color 8 
+\e (00:08:56) Form field label not found
+\i (00:08:56) FORM cvf_main color22 1 
+\i (00:08:56) FORM cvf_main boundary/bottom/color 22 
+\e (00:08:56) Form field label not found
+\i (00:08:56) FORM cvf_main color11 1 
+\i (00:08:56) FORM cvf_main anti_etch/bottom/color 11 
+\i (00:08:56) FORM cvf_main anti_etch/top/color 11 
+\i (00:08:56) FORM cvf_main all_visible1 NO 
+\i (00:08:56) FORM cvf_main all_visible2 NO 
+\i (00:08:56) FORM cvf_main pin/bottom/visible YES 
+\i (00:08:56) FORM cvf_main pin/top/visible YES 
+\i (00:08:56) FORM cvf_main via_class/bottom/visible YES 
+\i (00:08:56) FORM cvf_main via_class/top/visible YES 
+\i (00:08:56) FORM cvf_main color4 1 
+\i (00:08:56) FORM cvf_main drc_error_class/package_bottom/color 4 
+\i (00:08:56) FORM cvf_main drc_error_class/package_top/color 4 
+\i (00:08:56) FORM cvf_main drc_error_class/all/color 4 
+\i (00:08:56) FORM cvf_main class_list Geometry 
+\i (00:08:56) FORM cvf_main all_visible1 NO 
+\i (00:08:56) FORM cvf_main all_visible5 NO 
+\i (00:08:56) FORM cvf_main color8 1 
+\i (00:08:56) FORM cvf_main package_geometry/assembly_top/color 8 
+\i (00:08:56) FORM cvf_main color3 1 
+\i (00:08:56) FORM cvf_main color5 1 
+\i (00:08:56) FORM cvf_main board_geometry/outline/visible YES 
+\i (00:08:56) FORM cvf_main board_geometry/outline/color 5 
+\i (00:08:56) FORM cvf_main board_geometry/dimension/color 5 
+\i (00:08:56) FORM cvf_main board_geometry/dimension/visible YES 
+\i (00:08:56) FORM cvf_main color12 1 
+\i (00:08:56) FORM cvf_main board_geometry/dimension/color 12 
+\i (00:08:56) FORM cvf_main board_geometry/constraint_area/visible YES 
+\i (00:08:56) FORM cvf_main package_geometry/assembly_top/visible YES 
+\i (00:08:56) FORM cvf_main package_geometry/assembly_bottom/visible YES 
+\i (00:08:56) FORM cvf_main package_geometry/place_bound_top/visible YES 
+\i (00:08:56) FORM cvf_main package_geometry/place_bound_bottom/visible YES 
+\i (00:08:56) FORM cvf_main color2 1 
+\i (00:08:56) FORM cvf_main package_geometry/pin_number/color 2 
+\i (00:08:56) FORM cvf_main package_geometry/pin_number/visible YES 
+\i (00:08:56) FORM cvf_main color8 1 
+\i (00:08:56) FORM cvf_main package_geometry/silkscreen_top/color 8 
+\i (00:08:56) FORM cvf_main color22 1 
+\i (00:08:56) FORM cvf_main package_geometry/silkscreen_bottom/color 22 
+\i (00:08:56) FORM cvf_main package_geometry/silkscreen_bottom/visible YES 
+\i (00:08:56) FORM cvf_main package_geometry/silkscreen_top/visible YES 
+\i (00:08:56) FORM cvf_main class_list Components 
+\i (00:08:56) FORM cvf_main all_visible1 NO 
+\i (00:08:56) FORM cvf_main all_visible2 NO 
+\i (00:08:56) FORM cvf_main all_visible3 NO 
+\i (00:08:56) FORM cvf_main all_visible4 NO 
+\i (00:08:56) FORM cvf_main all_visible5 NO 
+\i (00:08:56) FORM cvf_main ref_des/assembly_top/visible YES 
+\i (00:08:56) FORM cvf_main ref_des/assembly_bottom/visible YES 
+\i (00:08:56) FORM cvf_main color8 1 
+\i (00:08:56) FORM cvf_main ref_des/assembly_top/color 8 
+\i (00:08:56) FORM cvf_main color22 1 
+\i (00:08:56) FORM cvf_main ref_des/assembly_bottom/color 22 
+\i (00:08:56) FORM cvf_main class_list Manufacturing 
+\i (00:08:56) FORM cvf_main all_visible5 NO 
+\i (00:08:56) FORM cvf_main all_visible1 NO 
+\i (00:08:56) FORM cvf_main color17 1 
+\i (00:08:56) FORM cvf_main drawing_format/outline/visible YES 
+\i (00:08:56) FORM cvf_main class_list Areas 
+\i (00:08:56) FORM cvf_main color5 1 
+\i (00:08:56) FORM cvf_main package_keepout/all/color 5 
+\i (00:08:56) FORM cvf_main package_keepout/bottom/color 5 
+\i (00:08:56) FORM cvf_main package_keepout/top/color 5 
+\i (00:08:56) FORM cvf_main class_list Analysis 
+\i (00:08:56) FORM cvf_main all_visible1 NO 
+\i (00:08:56) FORM cvf_main class_list Display 
+\i (00:08:56) FORM cvf_main class_list Stack-Up 
+\i (00:08:56) FORM cvf_main apply 
+\i (00:08:56) FORM cvf_main read_palette Write Local 
+\i (00:08:56) FORM cvf_main ok 
+\i (00:08:56) setwindow pcb 
+\i (00:08:56) trapsize 39
+\i (00:09:00) roam start
+\i (00:09:00) roam x -16
+\i (00:09:00) roam y -16
+\i (00:09:00) roam x -16
+\i (00:09:00) roam y -32
+\i (00:09:00) roam x -16
+\i (00:09:00) roam y -32
+\i (00:09:00) roam x -16
+\i (00:09:00) roam y -32
+\i (00:09:00) roam x -16
+\i (00:09:00) roam y -32
+\i (00:09:00) roam x -16
+\i (00:09:00) roam y -32
+\i (00:09:00) roam y -16
+\i (00:09:00) roam y -16
+\i (00:09:00) roam x 32
+\i (00:09:00) roam y -16
+\i (00:09:00) roam x 32
+\i (00:09:00) roam x 112
+\i (00:09:00) roam x 80
+\i (00:09:00) roam x 48
+\i (00:09:01) roam x 16
+\i (00:09:01) roam y 16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam y 16
+\i (00:09:01) roam x -32
+\i (00:09:01) roam y 16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam y 16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam y 16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam x -16
+\i (00:09:01) roam y 16
+\i (00:09:01) roam x -16
+\i (00:09:02) roam x -16
+\i (00:09:02) roam y 16
+\i (00:09:02) roam y 16
+\i (00:09:02) roam x -16
+\i (00:09:02) roam y 48
+\i (00:09:02) roam y 16
+\i (00:09:02) roam x -16
+\i (00:09:02) roam y 48
+\i (00:09:02) roam y 16
+\i (00:09:02) roam y 48
+\i (00:09:02) roam y 32
+\i (00:09:02) roam y 32
+\i (00:09:02) roam y 48
+\i (00:09:02) roam x -16
+\i (00:09:02) roam y 32
+\i (00:09:02) roam y 16
+\i (00:09:02) roam y 48
+\i (00:09:02) roam y 32
+\i (00:09:02) roam x 16
+\i (00:09:02) roam y 32
+\i (00:09:02) roam y 32
+\i (00:09:02) roam y 16
+\i (00:09:03) roam y 16
+\i (00:09:03) roam y -16
+\i (00:09:03) roam y -32
+\i (00:09:03) roam y -32
+\i (00:09:03) roam y -48
+\i (00:09:03) roam y -32
+\i (00:09:03) roam y -16
+\i (00:09:03) roam y -16
+\i (00:09:03) roam y -32
+\i (00:09:03) roam y -32
+\i (00:09:03) roam y -16
+\i (00:09:03) roam x 16
+\i (00:09:03) roam y -48
+\i (00:09:03) roam y -32
+\i (00:09:03) roam y -48
+\i (00:09:03) roam y -32
+\i (00:09:03) roam y -16
+\i (00:09:03) roam y -16
+\i (00:09:03) roam y -16
+\i (00:09:04) roam end
+\i (00:09:05) color 
+\i (00:09:05) setwindow form.cvf_main
+\i (00:09:05) FORM cvf_main class_list Components
+\i (00:09:08) FORM cvf_main class_list Geometry 
+\i (00:09:09) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (00:09:09) FORM cvf_main package_geometry/place_bound_bottom/visible NO 
+\i (00:09:10) FORM cvf_main apply  
+\i (00:09:13) FORM cvf_main class_list Manufacturing 
+\i (00:09:18) FORM cvf_main manufacturing/ncdrill_legend/visible YES 
+\i (00:09:19) FORM cvf_main manufacturing/ncdrill_figure/visible YES 
+\i (00:09:20) FORM cvf_main apply  
+\i (00:09:21) FORM cvf_main ok  
+\i (00:09:22) setwindow pcb
+\i (00:09:22) roam start
+\i (00:09:22) roam x 32
+\i (00:09:22) roam y 16
+\i (00:09:22) roam x 48
+\i (00:09:22) roam y 32
+\i (00:09:22) roam x 16
+\i (00:09:22) roam y 16
+\i (00:09:22) roam x 32
+\i (00:09:22) roam y 16
+\i (00:09:22) roam y 16
+\i (00:09:22) roam y 16
+\i (00:09:22) roam x -16
+\i (00:09:22) roam y 32
+\i (00:09:22) roam x -32
+\i (00:09:22) roam y 32
+\i (00:09:22) roam x -48
+\i (00:09:22) roam y 32
+\i (00:09:22) roam x -16
+\i (00:09:22) roam y 16
+\i (00:09:23) roam x -16
+\i (00:09:23) roam x -16
+\i (00:09:23) roam y 16
+\i (00:09:23) roam x -16
+\i (00:09:23) roam end
+\i (01:16:51) exit 
+\f (01:16:51) Do you want to save the changes you made to dip10.dra?
+\i (01:16:52) fillin yes 

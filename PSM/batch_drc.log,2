@@ -1,0 +1,28 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Batch DRC Update                                    )
+(                                                            )
+(        Drawing          : my_armbrd_mech.dra               )
+(        Software Version : 15.5p008                         )
+(        Date/Time        : Sat Dec 24 15:55:32 2005         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Sat Dec 24 15:55:32 2005
+ ========= check standalone pins              Sat Dec 24 15:55:32 2005
+ ========= check symbols (pins,lines,text)    Sat Dec 24 15:55:32 2005
+ ========= check nets                         Sat Dec 24 15:55:32 2005
+ ========= check standalone branches          Sat Dec 24 15:55:32 2005
+ ========= check standalone filled rectangles Sat Dec 24 15:55:32 2005
+ ========= check standalone lines             Sat Dec 24 15:55:32 2005
+ ========= check standalone text              Sat Dec 24 15:55:32 2005
+ ========= check standalone rectangles        Sat Dec 24 15:55:32 2005
+
+ ..... Total number of DRC errors  0
+
+ ..... end batch DRC at                       Sat Dec 24 15:55:32 2005
+ *************************************************************************
+

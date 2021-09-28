@@ -1,0 +1,993 @@
+\t (00:00:01) apd 15.5 s002 (v15-5-81L) i86
+\t (00:00:01) 
+
+\t (00:00:02) Starting new drawing...
+\t (00:00:02) Grids are drawn 1600.00, 1600.00 apart for enhanced viewability.
+\t (00:00:02) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:00:02) trapsize 49020
+\t (00:00:02) Grids are drawn 1600.00, 1600.00 apart for enhanced viewability.
+\i (00:00:02) trapsize 61805
+\i (00:00:02) trapsize 61805
+\t (00:02:34) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:02:34) trapsize 49020
+\t (00:02:34) Grids are drawn 1600.00, 1600.00 apart for enhanced viewability.
+\i (00:02:34) trapsize 61805
+\i (00:02:39) open 
+\i (00:02:48) fillin "lcd_p30.dra"
+\t (00:02:48) Opening existing drawing...
+\i (00:02:48) trapsize 47
+\i (00:02:48) trapsize 60
+\i (00:02:48) trapsize 60
+\d (00:02:48) Database opened: E:/LIB/CADENCE_LIB/ALLEGRO/LIB/lcd_p30.dra
+\i (00:02:49) roam start
+\i (00:02:49) roam x 32
+\i (00:02:49) roam x 48
+\i (00:02:49) roam x 48
+\i (00:02:49) roam x 16
+\i (00:02:49) roam x 48
+\i (00:02:49) roam x 32
+\i (00:02:49) roam x 32
+\i (00:02:49) roam x 32
+\i (00:02:49) roam x 16
+\i (00:02:50) roam x -16
+\i (00:02:50) roam x -32
+\i (00:02:50) roam x -16
+\i (00:02:50) roam x -16
+\i (00:02:50) roam x -16
+\i (00:02:50) roam end
+\i (00:02:52) open 
+\i (00:02:54) fillin "menu_cancel"
+\i (00:03:03) padeditdb 
+\i (00:03:04) pick grid 569.1 54.8
+\t (00:03:04) last pick:  600.0  100.0
+\i (00:03:10) open 
+\i (00:03:18) fillin "E:\LIB\CADENCE_LIB\TEMP\lcd_p3298.dra"
+\i (00:03:18) cd "E:\LIB\CADENCE_LIB\TEMP"
+\t (00:03:18) Opening existing drawing...
+\i (00:03:18) trapsize 131
+\d (00:03:18) Database opened: E:/LIB/CADENCE_LIB/TEMP/lcd_p3298.dra
+\i (00:03:23) delete 
+\i (00:03:24) pick grid 73.2 231.3
+\t (00:03:24) last pick:  100.0  200.0
+\t (00:03:24) Text "#Refdes"
+\i (00:03:24) pick grid dbl 73.2 231.3
+\t (00:03:24) last pick:  100.0  200.0
+\t (00:03:24) Text "#Refdes"
+\i (00:03:24) pick grid 73.2 231.3
+\t (00:03:24) last pick:  100.0  200.0
+\t (00:03:24) No element found
+\i (00:03:26) script 
+\f (00:03:26) Select Script to Replay
+\i (00:03:27) fillin "mxp_dra"
+\i (00:03:28) replay E:/LIB/CADENCE_LIB/BIN/mxp_dra.scr 
+\f (00:03:28) Select Script to Replay
+\i (00:03:28) version 15.5 
+\t (00:03:28) Script version: 15.5
+\i (00:03:28) setwindow pcb 
+\i (00:03:28) trapsize 90 
+\i (00:03:28) color 
+\i (00:03:28) FORM cvf_main class_list Geometry
+\i (00:03:28) setwindow form.cvf_main 
+\i (00:03:28) FORM cvf_main class_list Geometry 
+\i (00:03:28) FORM cvf_main class_list Stack-Up 
+\i (00:03:28) FORM cvf_main color8 1 
+\i (00:03:28) FORM cvf_main class_list Geometry 
+\i (00:03:28) FORM cvf_main all_visible5 NO 
+\i (00:03:28) FORM cvf_main part_geometry/place_bound_top/visible YES 
+\i (00:03:28) FORM cvf_main part_geometry/place_bound_bottom/visible YES 
+\i (00:03:28) FORM cvf_main color2 1 
+\i (00:03:28) FORM cvf_main part_geometry/pin_number/color 2 
+\i (00:03:28) FORM cvf_main part_geometry/pin_number/visible YES 
+\i (00:03:28) FORM cvf_main color8 1 
+\i (00:03:28) FORM cvf_main part_geometry/silkscreen_top/color 8 
+\i (00:03:28) FORM cvf_main part_geometry/silkscreen_bottom/color 8 
+\i (00:03:28) FORM cvf_main color22 1 
+\i (00:03:28) FORM cvf_main part_geometry/silkscreen_bottom/color 22 
+\i (00:03:28) FORM cvf_main part_geometry/silkscreen_top/visible YES 
+\i (00:03:28) FORM cvf_main part_geometry/silkscreen_bottom/visible YES 
+\i (00:03:28) FORM cvf_main color17 1 
+\i (00:03:28) FORM cvf_main all_visible1 NO 
+\i (00:03:28) FORM cvf_main substrate_geometry/outline/color 17 
+\i (00:03:28) FORM cvf_main substrate_geometry/outline/visible YES 
+\i (00:03:28) FORM cvf_main color1 1 
+\i (00:03:28) FORM cvf_main substrate_geometry/dimension/color 1 
+\i (00:03:28) FORM cvf_main substrate_geometry/dimension/visible YES 
+\i (00:03:28) FORM cvf_main color8 1 
+\i (00:03:28) FORM cvf_main substrate_geometry/silkscreen_top/color 8 
+\i (00:03:28) FORM cvf_main color22 1 
+\i (00:03:28) FORM cvf_main substrate_geometry/silkscreen_bottom/color 22 
+\i (00:03:28) FORM cvf_main substrate_geometry/silkscreen_top/visible YES 
+\i (00:03:28) FORM cvf_main substrate_geometry/silkscreen_bottom/visible YES 
+\i (00:03:28) FORM cvf_main class_list Components 
+\i (00:03:28) FORM cvf_main color8 1 
+\i (00:03:28) FORM cvf_main component_value/silkscreen_top/color 8 
+\i (00:03:28) FORM cvf_main device_type/silkscreen_top/color 8 
+\i (00:03:28) FORM cvf_main ref_des/silkscreen_top/color 8 
+\i (00:03:28) FORM cvf_main user_part_number/silkscreen_top/color 8 
+\i (00:03:28) FORM cvf_main color22 1 
+\i (00:03:28) FORM cvf_main user_part_number/silkscreen_bottom/color 22 
+\i (00:03:28) FORM cvf_main ref_des/silkscreen_bottom/color 22 
+\i (00:03:28) FORM cvf_main device_type/silkscreen_bottom/color 22 
+\i (00:03:28) FORM cvf_main component_value/silkscreen_bottom/color 22 
+\i (00:03:28) FORM cvf_main class_list Manufacturing 
+\i (00:03:28) FORM cvf_main color5 1 
+\i (00:03:28) FORM cvf_main drawing_format/outline/color 5 
+\i (00:03:28) FORM cvf_main class_list Areas 
+\i (00:03:28) FORM cvf_main class_list Analysis 
+\i (00:03:28) FORM cvf_main ok 
+\i (00:03:28) setwindow pcb 
+\i (00:03:28) trapsize 131
+\t (00:03:31) Pick To Complete Window.
+\i (00:03:34) pick 146.3 139.9
+\t (00:03:34) last pick:  146.3  139.9
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom previous
+\i (00:03:34) trapsize 131
+\t (00:03:35) Pick To Complete Window.
+\i (00:03:36) pick 527.6 -197.0
+\t (00:03:36) last pick:  527.6  -197.0
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom points
+\i (00:03:36) pick -692.0 -672.3
+\i (00:03:36) pick 1420.8 785.0
+\i (00:03:36) trapsize 131
+\t (00:03:37) Pick To Complete Window.
+\i (00:03:39) pick 185.5 45.9
+\t (00:03:39) last pick:  185.5  45.9
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom points
+\i (00:03:39) pick 334.4 -32.5
+\i (00:03:39) pick 185.5 70.2
+\i (00:03:39) trapsize 9
+\t (00:03:41) Pick To Complete Window.
+\i (00:03:42) pick 288.8 -7.5
+\t (00:03:42) last pick:  288.8  -7.5
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom points
+\i (00:03:42) pick 97.4 -82.4
+\i (00:03:42) pick 424.8 143.4
+\i (00:03:42) trapsize 20
+\t (00:03:43) Pick To Complete Window.
+\i (00:03:44) pick 449.5 -79.6
+\t (00:03:44) last pick:  449.5  -79.6
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom points
+\i (00:03:44) pick -268.1 -244.7
+\i (00:03:44) pick 714.2 432.8
+\i (00:03:44) trapsize 61
+\t (00:03:46) Pick To Complete Window.
+\i (00:03:48) pick 54.9 112.3
+\t (00:03:48) last pick:  54.9  112.3
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom points
+\i (00:03:48) pick 430.1 -56.5
+\i (00:03:48) pick 54.9 202.2
+\i (00:03:48) trapsize 23
+\i (00:03:49) roam start
+\i (00:03:49) roam y 16
+\i (00:03:49) roam x 16
+\i (00:03:49) roam y 16
+\i (00:03:49) roam y 32
+\i (00:03:49) roam y 48
+\i (00:03:49) roam y 16
+\i (00:03:49) roam y 16
+\i (00:03:49) roam x -16
+\i (00:03:49) roam y 16
+\i (00:03:49) roam x -16
+\i (00:03:49) roam x -112
+\i (00:03:49) roam y -16
+\i (00:03:49) roam x -224
+\i (00:03:49) roam y -16
+\i (00:03:49) roam x -160
+\i (00:03:49) roam x -16
+\i (00:03:49) roam x -16
+\i (00:03:49) roam x -16
+\i (00:03:49) roam y -16
+\i (00:03:49) roam x -16
+\i (00:03:50) roam x 16
+\i (00:03:50) roam x 16
+\i (00:03:50) roam x 16
+\i (00:03:50) roam end
+\i (00:03:52) replace padstack 
+\i (00:03:53) setwindow form.mini
+\i (00:03:53) FORM mini oldname_browse  
+\f (00:03:53) Select a padstack:
+\i (00:03:54) fillin "78"
+\i (00:03:55) FORM mini newname_browse  
+\f (00:03:55) Select a padstack:
+\i (00:03:59) fillin "Smd9_120"
+\i (00:04:00) FORM mini replace  
+\i (00:04:01) FORM mini newname_browse  
+\f (00:04:01) Select a padstack:
+\i (00:04:03) fillin "menu_cancel"
+\i (00:04:04) FORM mini oldname_browse  
+\f (00:04:04) Select a padstack:
+\i (00:04:04) fillin "79"
+\i (00:04:09) setwindow pcb
+\i (00:04:09) roam start
+\i (00:04:09) roam x 32
+\i (00:04:09) roam x 80
+\i (00:04:09) roam x 160
+\i (00:04:09) roam x 112
+\i (00:04:09) roam x 176
+\i (00:04:09) roam x 80
+\i (00:04:09) roam x 48
+\i (00:04:09) roam x 16
+\i (00:04:10) roam x 16
+\i (00:04:10) roam x 32
+\i (00:04:10) roam x 32
+\i (00:04:10) roam y 16
+\i (00:04:10) roam x 16
+\i (00:04:11) roam x 16
+\i (00:04:11) roam x 16
+\i (00:04:11) roam x 16
+\i (00:04:11) roam x 32
+\i (00:04:11) roam x 32
+\i (00:04:11) roam x 48
+\i (00:04:12) roam x 32
+\i (00:04:12) roam x 32
+\i (00:04:12) roam x 32
+\i (00:04:12) roam x 16
+\i (00:04:12) roam x 16
+\i (00:04:12) roam x 16
+\i (00:04:12) roam x -16
+\i (00:04:12) roam x -48
+\i (00:04:12) roam x -64
+\i (00:04:12) roam x -128
+\i (00:04:12) roam y -16
+\i (00:04:13) roam x -80
+\i (00:04:13) roam x -32
+\i (00:04:13) roam x -48
+\i (00:04:13) roam x -48
+\i (00:04:13) roam x -48
+\i (00:04:13) roam x -32
+\i (00:04:13) roam x -48
+\i (00:04:13) roam x -48
+\i (00:04:13) roam x -16
+\i (00:04:13) roam x -16
+\i (00:04:13) roam x -16
+\i (00:04:13) roam x -16
+\i (00:04:13) roam x -32
+\i (00:04:13) roam x -16
+\i (00:04:13) roam x -48
+\i (00:04:13) roam x -16
+\i (00:04:13) roam x -32
+\i (00:04:13) roam x -16
+\i (00:04:13) roam x -32
+\i (00:04:13) roam x -16
+\i (00:04:14) roam end
+\i (00:04:18) setwindow form.mini
+\i (00:04:18) FORM mini newname_browse  
+\f (00:04:18) Select a padstack:
+\i (00:04:28) fillin "Smd9_120"
+\i (00:04:29) FORM mini replace  
+\i (00:04:30) setwindow pcb
+\i (00:04:30) roam start
+\i (00:04:30) roam x 96
+\i (00:04:30) roam x 144
+\i (00:04:30) roam y -16
+\i (00:04:30) roam x 64
+\i (00:04:30) roam x 48
+\i (00:04:30) roam x 32
+\i (00:04:30) roam x 32
+\i (00:04:30) roam x 32
+\i (00:04:30) roam x 32
+\i (00:04:30) roam x 32
+\i (00:04:30) roam x 16
+\i (00:04:30) roam x 16
+\i (00:04:31) roam end
+\i (00:05:03) leader only 
+\t (00:05:03) Performing DRC. Please wait...
+\t (00:05:03) No DRC errors detected.
+\i (00:05:03) pick grid 319.6 117.5
+\t (00:05:03) last pick:  300.0  100.0
+\i (00:05:04) pick grid 350.6 117.5
+\t (00:05:04) last pick:  400.0  100.0
+\i (00:05:07) pick grid 351.1 114.7
+\t (00:05:07) last pick:  400.0  100.0
+\e (00:05:07) PICK EQUALS PREVIOUS PICK. TRY AGAIN.
+\i (00:05:09) cancel 
+\i (00:05:30) dimension linear 
+\t (00:05:30) Pick a point or element to dimension.
+\i (00:05:31) pick grid 319.1 128.2
+\t (00:05:31) last pick:  300.0  100.0
+\t (00:05:31) No element found
+\t (00:05:31) First point found, pick second point.
+\i (00:05:32) pick grid 355.3 127.7
+\t (00:05:32) last pick:  400.0  100.0
+\t (00:05:32) No element found
+\t (00:05:32) Pick location for dimension value.
+\i (00:05:35) cancel 
+\i (00:05:42) dimension linear 
+\t (00:05:42) Pick a point or element to dimension.
+\i (00:05:45) pick grid 380.8 -63.8
+\t (00:05:45) last pick:  400.0  -100.0
+\t (00:05:45) First point found, pick second point.
+\i (00:05:47) pick grid 385.9 -64.8
+\t (00:05:47) last pick:  400.0  -100.0
+\t (00:05:47) Pick location for dimension value.
+\i (00:05:50) zoom out 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 412.3 -73.1
+\i (00:05:50) trapsize 46
+\i (00:05:51) roam start
+\i (00:05:51) roam y 16
+\i (00:05:51) roam y 16
+\i (00:05:51) roam y 32
+\i (00:05:51) roam y 48
+\i (00:05:51) roam y 32
+\i (00:05:51) roam x -16
+\i (00:05:51) roam y 16
+\i (00:05:51) roam y 16
+\i (00:05:52) roam x -16
+\i (00:05:52) roam y 16
+\i (00:05:52) roam y 16
+\i (00:05:52) roam y 16
+\i (00:05:52) roam y 16
+\i (00:05:52) roam y 16
+\i (00:05:52) roam end
+\i (00:05:53) roam start
+\i (00:05:53) roam x 32
+\i (00:05:53) roam x 32
+\i (00:05:53) roam x 16
+\i (00:05:53) roam x 32
+\i (00:05:53) roam x 16
+\i (00:05:53) roam x 32
+\i (00:05:53) roam x 16
+\i (00:05:53) roam x 16
+\i (00:05:53) roam end
+\i (00:05:57) pick grid 372.9 -250.3
+\t (00:05:57) last pick:  400.0  -300.0
+\t (00:05:57) Pick a point or element to dimension.
+\i (00:05:59) done 
+\i (00:06:00) roam start
+\i (00:06:00) roam y 48
+\i (00:06:00) roam y 16
+\i (00:06:00) roam y 32
+\i (00:06:00) roam x -16
+\i (00:06:00) roam y 32
+\i (00:06:00) roam x -16
+\i (00:06:00) roam y 32
+\i (00:06:00) roam y 16
+\i (00:06:00) roam end
+\i (00:12:33) trapsize 37
+\i (00:12:33) trapsize 46
+\i (00:12:34) roam start
+\i (00:12:34) roam x -16
+\i (00:12:34) roam x -32
+\i (00:12:34) roam y -32
+\i (00:12:34) roam x -32
+\i (00:12:34) roam y -16
+\i (00:12:34) roam x -32
+\i (00:12:34) roam y -16
+\i (00:12:34) roam x -16
+\i (00:12:34) roam y -16
+\i (00:12:34) roam x -32
+\i (00:12:34) roam y -32
+\i (00:12:34) roam x -32
+\i (00:12:34) roam x -16
+\i (00:12:34) roam y -32
+\i (00:12:34) roam x -16
+\i (00:12:34) roam y -16
+\i (00:12:34) roam y -16
+\i (00:12:34) roam y -16
+\i (00:12:34) roam x 16
+\i (00:12:34) roam y -16
+\i (00:12:34) roam x 16
+\i (00:12:34) roam y -16
+\i (00:12:35) roam x 16
+\i (00:12:35) roam y -16
+\i (00:12:35) roam x 16
+\i (00:12:35) roam y -16
+\i (00:12:35) roam x 16
+\i (00:12:35) roam x 16
+\i (00:12:35) roam y -16
+\i (00:12:35) roam y -16
+\i (00:12:35) roam end
+\i (00:12:42) drawing param 
+\i (00:13:19) setwindow form.drawing
+\i (00:13:19) FORM drawing units Millimeter 
+\e (00:13:19) Change may cause round-off; run dbcheck.
+\i (00:14:43) FORM drawing cancel  
+\i (00:18:00) setwindow pcb
+\i (00:18:00) trapsize 37
+\i (00:18:00) trapsize 46
+\i (00:19:39) drawing param 
+\i (00:19:43) setwindow form.drawing
+\i (00:19:43) FORM drawing cancel  
+\i (00:20:11) setwindow pcb
+\i (00:20:11) drawing param 
+\i (00:20:31) setwindow form.drawing
+\i (00:20:31) FORM drawing units Millimeter 
+\e (00:20:31) Change may cause round-off; run dbcheck.
+\i (00:20:32) FORM drawing done  
+\w (00:20:32) Scaled value has been rounded off.
+\i (00:20:32) setwindow pcb
+\i (00:20:32) trapsize 3317
+\t (00:20:32) Performing DRC. Please wait...
+\t (00:20:32) No DRC errors detected.
+\i (00:20:40) zoom out 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom out 8.8249 0.1709
+\i (00:20:40) trapsize 3317
+\i (00:20:40) zoom in 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom in 8.0288 -0.2271
+\i (00:20:40) trapsize 1658
+\i (00:20:41) zoom in 
+\i (00:20:41) setwindow pcb
+\i (00:20:41) zoom in 7.6639 0.3036
+\i (00:20:41) trapsize 829
+\i (00:20:42) draft param 
+\i (00:20:46) setwindow form.draft_main
+\i (00:20:46) FORM draft_main done  
+\i (00:20:50) setwindow pcb
+\i (00:20:50) leader diametral 
+\t (00:20:50) Pick a point or element to dimension.
+\i (00:20:51) zoom in 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom in 7.4318 2.6254
+\i (00:20:51) trapsize 415
+\i (00:20:53) pick grid 7.1747 1.6055
+\t (00:20:53) last pick:  7.6200  2.5400
+\t (00:20:53) No element found
+\i (00:20:54) pick grid 7.3157 1.5972
+\t (00:20:54) last pick:  7.6200  2.5400
+\t (00:20:54) No element found
+\i (00:20:57) pick grid 7.1665 2.7498
+\t (00:20:57) last pick:  7.6200  2.5400
+\t (00:20:57) No element found
+\i (00:20:57) pick grid 8.4600 2.5757
+\t (00:20:57) last pick:  7.6200  2.5400
+\t (00:20:57) No element found
+\i (00:20:59) cancel 
+\i (00:21:06) dimension linear 
+\t (00:21:06) Pick a point or element to dimension.
+\i (00:21:10) pick grid 7.1747 2.8410
+\t (00:21:10) last pick:  7.6200  2.5400
+\t (00:21:10) No element found
+\t (00:21:10) First point found, pick second point.
+\i (00:21:12) pick grid 7.3157 2.8327
+\t (00:21:12) last pick:  7.6200  2.5400
+\e (00:21:12) PICK EQUALS PREVIOUS PICK. TRY AGAIN.
+\i (00:21:13) pick grid 7.1416 3.1893
+\t (00:21:13) last pick:  7.6200  2.5400
+\e (00:21:13) PICK EQUALS PREVIOUS PICK. TRY AGAIN.
+\i (00:21:15) zoom out 
+\i (00:21:15) setwindow pcb
+\i (00:21:15) zoom out 8.0952 3.0566
+\i (00:21:15) trapsize 829
+\i (00:21:15) zoom out 
+\i (00:21:15) setwindow pcb
+\i (00:21:15) zoom out 8.0951 3.0566
+\i (00:21:15) trapsize 1658
+\i (00:21:15) zoom in 
+\i (00:21:15) setwindow pcb
+\i (00:21:15) zoom in 8.0951 3.0566
+\i (00:21:15) trapsize 829
+\i (00:21:16) zoom out 
+\i (00:21:16) setwindow pcb
+\i (00:21:16) zoom out 8.0951 3.0566
+\i (00:21:16) trapsize 1658
+\i (00:21:16) zoom out 
+\i (00:21:16) setwindow pcb
+\i (00:21:16) zoom out 8.0951 3.0566
+\i (00:21:16) trapsize 3317
+\i (00:21:17) zoom in 
+\i (00:21:17) setwindow pcb
+\i (00:21:17) zoom in 9.0902 -8.1874
+\i (00:21:17) trapsize 1658
+\i (00:21:17) zoom in 
+\i (00:21:17) setwindow pcb
+\i (00:21:17) zoom in 9.2892 -7.0597
+\i (00:21:17) trapsize 829
+\i (00:21:18) zoom out 
+\i (00:21:18) setwindow pcb
+\i (00:21:18) zoom out 9.6209 -7.3914
+\i (00:21:18) trapsize 1658
+\i (00:21:19) delete 
+\i (00:21:20) pick grid 9.2893 -6.8275
+\t (00:21:20) last pick:  10.1600  -7.6200
+\t (00:21:20) Text ".02"
+\i (00:21:20) pick grid dbl 9.2893 -6.8275
+\t (00:21:20) last pick:  10.1600  -7.6200
+\t (00:21:20) No element found
+\i (00:21:21) pick grid 9.6209 -7.1592
+\t (00:21:21) last pick:  10.1600  -7.6200
+\t (00:21:21) Line "Substrate Geometry/Dimension"
+\i (00:21:21) pick grid 9.6873 -7.2919
+\t (00:21:21) last pick:  10.1600  -7.6200
+\t (00:21:21) No element found
+\i (00:21:21) pick grid 9.8531 -8.2206
+\t (00:21:21) last pick:  10.1600  -7.6200
+\t (00:21:21) Line "Substrate Geometry/Dimension"
+\i (00:21:21) pick grid dbl 9.8531 -8.2206
+\t (00:21:21) last pick:  10.1600  -7.6200
+\t (00:21:21) No element found
+\i (00:21:22) pick grid 8.5264 -7.6235
+\t (00:21:22) last pick:  7.6200  -7.6200
+\t (00:21:22) Line "Substrate Geometry/Dimension"
+\i (00:21:22) pick grid dbl 8.5264 -7.6235
+\t (00:21:22) last pick:  7.6200  -7.6200
+\t (00:21:22) Line "Substrate Geometry/Dimension"
+\i (00:21:22) pick grid 8.4932 -7.6235
+\t (00:21:22) last pick:  7.6200  -7.6200
+\t (00:21:22) Line "Substrate Geometry/Dimension"
+\i (00:21:26) setwindow form.find
+\i (00:21:26) FORM find all_off  
+\i (00:21:30) setwindow pcb
+\i (00:21:30) drag_start grid 4.2809 -6.0978
+\i (00:21:30) drag_stop 15.5912 -9.2156
+\t (00:21:30) No element found
+\i (00:21:32) delete 
+\i (00:21:32) pick grid 13.3357 -7.5904
+\t (00:21:32) last pick:  12.7000  -7.6200
+\t (00:21:32) No element found
+\i (00:21:32) pick grid dbl 13.3357 -7.5904
+\t (00:21:32) last pick:  12.7000  -7.6200
+\t (00:21:32) No element found
+\i (00:21:33) pick grid 13.6011 -7.1260
+\t (00:21:33) last pick:  12.7000  -7.6200
+\t (00:21:33) No element found
+\i (00:21:33) pick grid dbl 13.6011 -7.1260
+\t (00:21:33) last pick:  12.7000  -7.6200
+\t (00:21:33) No element found
+\i (00:21:33) pick grid 13.6343 -6.9933
+\t (00:21:33) last pick:  12.7000  -7.6200
+\t (00:21:33) No element found
+\i (00:21:34) pick grid dbl 13.6343 -6.9933
+\t (00:21:34) last pick:  12.7000  -7.6200
+\t (00:21:34) No element found
+\i (00:21:34) pick grid 13.6343 -6.9933
+\t (00:21:34) last pick:  12.7000  -7.6200
+\t (00:21:34) No element found
+\i (00:21:35) pick grid 10.5165 -7.5572
+\t (00:21:35) last pick:  10.1600  -7.6200
+\t (00:21:35) No element found
+\i (00:21:35) pick grid 10.3175 -7.4577
+\t (00:21:35) last pick:  10.1600  -7.6200
+\t (00:21:35) No element found
+\i (00:21:35) pick grid dbl 10.3175 -7.4577
+\t (00:21:35) last pick:  10.1600  -7.6200
+\t (00:21:35) No element found
+\i (00:21:35) pick grid 10.2843 -7.5572
+\t (00:21:35) last pick:  10.1600  -7.6200
+\t (00:21:35) No element found
+\i (00:21:36) pick grid dbl 10.2843 -7.5572
+\t (00:21:36) last pick:  10.1600  -7.6200
+\t (00:21:36) No element found
+\i (00:21:38) setwindow form.find
+\i (00:21:38) FORM find text YES 
+\i (00:21:39) setwindow pcb
+\i (00:21:39) pick grid 12.3407 -7.2587
+\t (00:21:39) last pick:  12.7000  -7.6200
+\t (00:21:39) No element found
+\i (00:21:40) pick grid 11.6442 -7.9884
+\t (00:21:40) last pick:  12.7000  -7.6200
+\t (00:21:40) No element found
+\i (00:21:41) setwindow form.find
+\i (00:21:41) FORM find lines YES 
+\i (00:21:41) FORM find clines YES 
+\i (00:21:42) setwindow pcb
+\i (00:21:42) pick grid 10.4170 -7.4909
+\t (00:21:42) last pick:  10.1600  -7.6200
+\t (00:21:42) Line "Substrate Geometry/Dimension"
+\i (00:21:42) pick grid 10.8150 -7.7562
+\t (00:21:42) last pick:  10.1600  -7.6200
+\t (00:21:42) No element found
+\i (00:21:45) save 
+\f (00:21:45) E:/LIB/CADENCE_LIB/TEMP/lcd_p3298.dra: File Exists. Overwrite? 
+\i (00:21:47) fillin no 
+\i (00:21:48) fillin "menu_cancel"
+\i (00:21:50) zoom fit 
+\i (00:21:50) trapsize 1576
+\i (00:21:52) roam start
+\i (00:21:52) roam y 16
+\i (00:21:52) roam y 32
+\i (00:21:52) roam y 16
+\i (00:21:52) roam y 16
+\i (00:21:52) roam y 16
+\i (00:21:52) roam y 16
+\i (00:21:52) roam y 16
+\i (00:21:52) roam end
+\i (00:23:33) trapsize 1250
+\i (00:23:33) trapsize 1576
+\i (00:23:35) draft param 
+\i (00:23:58) setwindow form.draft_main
+\i (00:23:58) FORM draft_main done  
+\i (00:23:59) setwindow pcb
+\i (00:23:59) drawing param 
+\i (00:24:00) setwindow form.drawing
+\i (00:24:00) FORM drawing units Mils 
+\e (00:24:00) Change may cause round-off; run dbcheck.
+\i (00:24:01) FORM drawing done  
+\f (00:24:01) WARNING: Standard artwork formats do not support this level of accuracy. Suggest you use MILS at 2 decimal places or less. Continue at current setting (Yes) or cancel changes (No)?
+\i (00:24:08) fillin no 
+\i (00:24:15) FORM drawing accuracy 2 
+\i (00:24:16) FORM drawing done  
+\w (00:24:16) Scaled value has been rounded off.
+\i (00:24:16) setwindow pcb
+\i (00:24:16) trapsize 1306
+\t (00:24:16) Performing DRC. Please wait...
+\t (00:24:16) No DRC errors detected.
+\i (00:24:18) drawing param 
+\i (00:24:20) setwindow form.drawing
+\i (00:24:20) FORM drawing done  
+\i (00:24:22) setwindow pcb
+\i (00:24:22) drawing param 
+\i (00:24:28) setwindow form.drawing
+\i (00:24:28) FORM drawing done  
+\i (00:24:38) setwindow pcb
+\i (00:24:38) draft param 
+\i (00:24:39) setwindow form.draft_main
+\i (00:24:39) FORM draft_main unit_metric YES 
+\i (00:24:41) FORM draft_main dim_text  
+\i (00:25:02) setwindow form.draft_dimtext
+\i (00:25:02) FORM draft_dimtext units Millimeters 
+\i (00:25:31) FORM draft_dimtext units Inches 
+\i (00:25:35) FORM draft_dimtext units Millimeters 
+\i (00:25:36) FORM draft_dimtext done  
+\i (00:25:38) setwindow form.draft_main
+\i (00:25:38) FORM draft_main done  
+\i (00:25:45) setwindow pcb
+\i (00:25:45) leader chamfer 
+\t (00:25:45) Pick a point or element to dimension.
+\i (00:25:47) zoom in 
+\i (00:25:47) setwindow pcb
+\i (00:25:47) zoom in 206.41 82.47
+\i (00:25:47) trapsize 653
+\i (00:25:47) zoom in 
+\i (00:25:47) setwindow pcb
+\i (00:25:47) zoom in 206.41 82.47
+\i (00:25:47) trapsize 326
+\i (00:25:47) zoom in 
+\i (00:25:47) setwindow pcb
+\i (00:25:47) zoom in 207.06 71.37
+\i (00:25:47) trapsize 163
+\i (00:25:48) zoom in 
+\i (00:25:48) setwindow pcb
+\i (00:25:48) zoom in 214.57 60.93
+\i (00:25:48) trapsize 82
+\i (00:25:50) pick grid 203.80 67.95
+\t (00:25:50) last pick:  200.00  100.00
+\t (00:25:50) No element found
+\i (00:25:52) pick grid 209.52 67.95
+\t (00:25:52) last pick:  200.00  100.00
+\t (00:25:52) No element found
+\i (00:26:35) dimension linear 
+\t (00:26:35) Pick a point or element to dimension.
+\i (00:26:39) dimension datum 
+\e (00:26:39) Error -67 in interactive command.
+\i (00:26:42) dimension angular 
+\i (00:26:42) pick grid 208.70 106.96
+\t (00:26:42) last pick:  200.00  100.00
+\i (00:26:42) pick grid 225.51 102.88
+\t (00:26:42) last pick:  200.00  100.00
+\i (00:26:43) dimension linear 
+\t (00:26:43) Pick a point or element to dimension.
+\i (00:26:44) pick grid 207.88 100.60
+\t (00:26:44) last pick:  200.00  100.00
+\t (00:26:44) No element found
+\t (00:26:44) First point found, pick second point.
+\i (00:26:44) pick grid 241.18 100.27
+\t (00:26:44) last pick:  200.00  100.00
+\e (00:26:44) PICK EQUALS PREVIOUS PICK. TRY AGAIN.
+\i (00:26:45) pick grid 277.58 100.27
+\t (00:26:45) last pick:  300.00  100.00
+\t (00:26:45) No element found
+\t (00:26:45) Pick location for dimension value.
+\i (00:26:46) pick grid 249.18 98.80
+\t (00:26:46) last pick:  200.00  100.00
+\e (00:26:46) Error -2608 in interactive command.
+\i (00:26:49) zoom fit 
+\i (00:26:49) trapsize 621
+\i (00:26:52) leader only 
+\i (00:26:52) pick grid 119.56 269.57
+\t (00:26:52) last pick:  100.00  300.00
+\i (00:26:53) pick grid 350.40 263.37
+\t (00:26:53) last pick:  400.00  300.00
+\i (00:26:55) pick grid 432.31 448.29
+\t (00:26:55) last pick:  400.00  400.00
+\i (00:26:55) pick grid dbl 414.94 393.68
+\t (00:26:55) last pick:  400.00  400.00
+\e (00:26:55) PICK EQUALS PREVIOUS PICK. TRY AGAIN.
+\i (00:26:56) pick grid 617.23 351.48
+\t (00:26:56) last pick:  600.00  400.00
+\i (00:26:59) cancel 
+\i (00:27:03) leader diametral 
+\t (00:27:03) Pick a point or element to dimension.
+\i (00:27:03) pick grid 197.75 267.09
+\t (00:27:03) last pick:  200.00  300.00
+\t (00:27:03) No element found
+\i (00:27:03) pick grid 514.22 262.13
+\t (00:27:03) last pick:  500.00  300.00
+\t (00:27:03) No element found
+\i (00:27:06) pick grid 141.90 88.37
+\t (00:27:06) last pick:  100.00  100.00
+\t (00:27:06) No element found
+\i (00:27:07) pick grid 144.38 -168.53
+\t (00:27:07) last pick:  100.00  -200.00
+\t (00:27:07) No element found
+\i (00:27:10) cancel 
+\i (00:27:14) leader chamfer 
+\t (00:27:14) Pick a point or element to dimension.
+\i (00:27:14) pick grid 172.92 280.74
+\t (00:27:14) last pick:  200.00  300.00
+\t (00:27:14) No element found
+\i (00:27:15) pick grid 342.95 231.10
+\t (00:27:15) last pick:  300.00  200.00
+\t (00:27:15) No element found
+\i (00:27:15) cancel 
+\i (00:27:17) draft chamfer 
+\t (00:27:17) Pick first segment to be chamferred ...
+\i (00:27:18) pick grid 233.74 310.53
+\t (00:27:18) last pick:  200.00  300.00
+\t (00:27:18) NO element found! - pick again ...
+\t (00:27:18) Pick first segment to be chamferred ...
+\i (00:27:18) pick grid 469.54 296.88
+\t (00:27:18) last pick:  500.00  300.00
+\t (00:27:18) NO element found! - pick again ...
+\t (00:27:18) Pick first segment to be chamferred ...
+\i (00:27:19) pick grid 242.43 337.83
+\t (00:27:19) last pick:  200.00  300.00
+\t (00:27:19) NO element found! - pick again ...
+\t (00:27:19) Pick first segment to be chamferred ...
+\i (00:27:19) pick grid 449.69 327.90
+\t (00:27:19) last pick:  400.00  300.00
+\t (00:27:19) NO element found! - pick again ...
+\t (00:27:19) Pick first segment to be chamferred ...
+\i (00:27:20) cancel 
+\i (00:27:20) cancel 
+\e (00:27:20) No command active
+\i (00:27:21) cancel 
+\e (00:27:21) No command active
+\i (00:27:21) cancel 
+\e (00:27:21) No command active
+\i (00:27:54) zoom in 
+\i (00:27:54) setwindow pcb
+\i (00:27:54) zoom in 298.27 -27.05
+\i (00:27:54) trapsize 310
+\i (00:27:54) zoom in 
+\i (00:27:54) setwindow pcb
+\i (00:27:54) zoom in 298.28 -27.04
+\i (00:27:54) trapsize 155
+\i (00:27:55) zoom out 
+\i (00:27:55) setwindow pcb
+\i (00:27:55) zoom out 276.56 26.02
+\i (00:27:55) trapsize 310
+\i (00:27:55) zoom in 
+\i (00:27:55) setwindow pcb
+\i (00:27:55) zoom in 272.22 29.74
+\i (00:27:55) trapsize 155
+\i (00:27:59) color priority 
+\i (00:28:02) drawing param 
+\i (00:28:03) setwindow form.drawing
+\i (00:28:03) FORM drawing cancel  
+\i (00:28:05) setwindow pcb
+\i (00:28:05) color 
+\i (00:28:05) setwindow form.cvf_main
+\i (00:28:05) FORM cvf_main class_list Geometry
+\i (00:28:06) FORM cvf_main global_vis All Invisible 
+\f (00:28:06) Change visibility of all classes?
+\i (00:28:07) fillin yes 
+\i (00:28:09) FORM cvf_main apply  
+\i (00:28:11) FORM cvf_main class_list Stack-Up 
+\i (00:28:13) FORM cvf_main color7 1 
+\i (00:28:14) FORM cvf_main pin/top/color 7 
+\i (00:28:15) FORM cvf_main pin/top/visible YES 
+\i (00:28:17) FORM cvf_main apply  
+\i (00:28:20) FORM cvf_main cancel  
+\i (00:28:27) setwindow pcb
+\i (00:28:27) roam start
+\i (00:28:27) roam x -96
+\i (00:28:27) roam x -128
+\i (00:28:27) roam x -96
+\i (00:28:27) roam x -112
+\i (00:28:27) roam x -32
+\i (00:28:27) roam x -48
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:27) roam x -16
+\i (00:28:28) roam x -16
+\i (00:28:28) roam y 16
+\i (00:28:28) roam x -32
+\i (00:28:28) roam x -16
+\i (00:28:28) roam x -48
+\i (00:28:28) roam x -32
+\i (00:28:28) roam x -48
+\i (00:28:28) roam x -16
+\i (00:28:28) roam x -16
+\i (00:28:28) roam x 16
+\i (00:28:28) roam x 32
+\i (00:28:28) roam x 144
+\i (00:28:28) roam y 16
+\i (00:28:28) roam x 176
+\i (00:28:28) roam x 128
+\i (00:28:28) roam x 208
+\i (00:28:28) roam x 112
+\i (00:28:28) roam x 160
+\i (00:28:28) roam x 96
+\i (00:28:28) roam x 80
+\i (00:28:28) roam x 32
+\i (00:28:28) roam y 16
+\i (00:28:28) roam x 16
+\i (00:28:29) roam x 16
+\i (00:28:29) roam x 32
+\i (00:28:29) roam x 80
+\i (00:28:29) roam x 32
+\i (00:28:29) roam x 48
+\i (00:28:29) roam x 16
+\i (00:28:29) roam x 16
+\i (00:28:30) roam x -16
+\i (00:28:30) roam x -32
+\i (00:28:30) roam x -32
+\i (00:28:30) roam x -32
+\i (00:28:30) roam x -48
+\i (00:28:30) roam x -32
+\i (00:28:30) roam x -48
+\i (00:28:30) roam y -16
+\i (00:28:30) roam x -32
+\i (00:28:31) roam x -32
+\i (00:28:31) roam x -32
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -32
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam y -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam y -16
+\i (00:28:31) roam x -32
+\i (00:28:31) roam y -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam y -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam x -16
+\i (00:28:31) roam y -16
+\i (00:28:31) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -32
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -32
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam y 16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -32
+\i (00:28:32) roam x -16
+\i (00:28:32) roam y 16
+\i (00:28:32) roam x -32
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:32) roam x -16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam y 16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam x -16
+\i (00:28:33) roam x 16
+\i (00:28:33) roam x 16
+\i (00:28:33) roam x 16
+\i (00:28:34) roam x 16
+\i (00:28:34) roam x 16
+\i (00:28:34) roam x 16
+\i (00:28:34) roam x 16
+\i (00:28:34) roam end
+\i (00:28:36) roam start
+\i (00:28:36) roam x 48
+\i (00:28:36) roam x 32
+\i (00:28:36) roam x 48
+\i (00:28:36) roam x 48
+\i (00:28:36) roam x 32
+\i (00:28:36) roam x 48
+\i (00:28:36) roam x 32
+\i (00:28:36) roam x 64
+\i (00:28:36) roam x 32
+\i (00:28:36) roam x 16
+\i (00:28:36) roam x 32
+\i (00:28:36) roam x 32
+\i (00:28:36) roam x 32
+\i (00:28:36) roam x 16
+\i (00:28:36) roam x 16
+\i (00:28:36) roam x 16
+\i (00:28:36) roam x 16
+\i (00:28:36) roam x 16
+\i (00:28:36) roam x 16
+\i (00:28:37) roam end
+\i (00:29:28) setwindow form.colprior
+\i (00:29:28) FORM colprior done  
+\i (00:29:32) setwindow pcb
+\i (00:29:32) roam start
+\i (00:29:32) roam x -128
+\i (00:29:32) roam y 32
+\i (00:29:32) roam x -128
+\i (00:29:32) roam y 16
+\i (00:29:32) roam x -224
+\i (00:29:32) roam x -112
+\i (00:29:32) roam y 16
+\i (00:29:32) roam x -80
+\i (00:29:33) roam x -16
+\i (00:29:33) roam x -32
+\i (00:29:33) roam x -16
+\i (00:29:33) roam x -32
+\i (00:29:33) roam x -32
+\i (00:29:33) roam y -16
+\i (00:29:33) roam x -16
+\i (00:29:33) roam x -16
+\i (00:29:33) roam y -16
+\i (00:29:34) roam x 112
+\i (00:29:34) roam x 160
+\i (00:29:34) roam x 32
+\i (00:29:34) roam end
+\i (00:29:37) replace padstack 
+\i (00:29:38) setwindow form.mini
+\i (00:29:38) FORM mini oldname_browse  
+\f (00:29:38) Select a padstack:
+\i (00:29:39) fillin "Smd9_120"
+\i (00:29:40) FORM mini newname_browse  
+\f (00:29:40) Select a padstack:
+\i (00:29:45) fillin "Smd10_120"
+\i (00:29:46) FORM mini replace  
+\i (00:29:50) setwindow pcb
+\i (00:29:50) zoom fit 
+\i (00:29:50) trapsize 390
+\i (00:29:51) roam start
+\i (00:29:51) roam y 16
+\i (00:29:51) roam y 16
+\i (00:29:52) roam end
+\i (00:30:07) zoom in 
+\i (00:30:07) setwindow pcb
+\i (00:30:07) zoom in 295.34 10.59
+\i (00:30:07) trapsize 195
+\i (00:30:07) zoom in 
+\i (00:30:07) setwindow pcb
+\i (00:30:07) zoom in 295.35 11.37
+\i (00:30:07) trapsize 98
+\i (00:30:27) replace padstack 
+\t (00:30:27) Performing DRC. Please wait...
+\t (00:30:27) No DRC errors detected.
+\i (00:30:28) setwindow form.mini
+\i (00:30:28) FORM mini oldname_browse  
+\f (00:30:28) Select a padstack:
+\i (00:30:29) fillin "Smd10_120"
+\i (00:30:31) FORM mini newname_browse  
+\f (00:30:31) Select a padstack:
+\i (00:30:35) fillin "Smd9_120"
+\i (00:30:36) FORM mini replace  
+\i (01:49:35) setwindow pcb
+\i (01:49:35) trapsize 77
+\i (01:49:35) trapsize 98
+\i (01:49:36) exit 
+\t (01:49:36) Performing DRC. Please wait...
+\t (01:49:36) No DRC errors detected.
+\f (01:49:36) Do you want to save the changes you made to lcd_p3298.dra?
+\i (01:49:37) fillin no 
